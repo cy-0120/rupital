@@ -1,0 +1,4 @@
+자격증, 대외활동, 사용기술
+- 자격증: 정보처리기능사
+- 대외활동: 교내 해커톤 참가
+- 사용기술: JavaScript, TypeScript, React, MySQL
